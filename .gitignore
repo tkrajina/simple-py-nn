@@ -1,0 +1,7 @@
+*.log
+*.swp
+*.swo
+*.pyc
+.project
+.pydevproject
+.settings
